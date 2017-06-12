@@ -5,7 +5,7 @@ Discover the most popular, the most rated or the highest rated movies. This proj
 For the final version of this project, look here: https://github.com/joysoi/MovieAppFinal
 
 -------
-License
+### License
 -------
 Copyright 2015 The Android Open Source Project, Inc.
 
